@@ -6,7 +6,7 @@ int main(){
     cout << "Wybierz z poniższych liczb ta, która ci odpowiada"
     cout << "1 - Dodawania";
     cout << "2 - Odejmowania";
-    cout << "3 - Mnozenia";
+    cout << "3 - Mnozenia" << endl;
 
     int n;
     cin >> n;
